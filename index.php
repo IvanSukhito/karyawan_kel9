@@ -20,7 +20,7 @@
     <label for="inputtanggal_penelitian4" class="form-label">tanggal_penelitian</label>
     <input type="date" class="form-control" id="inputtanggal_penelitian4">
   </div>
-  <div class="col-md-6">
+  <div class="col-md-6"> 
     <label for="inputNik" class="form-label">Nik</label>
     <input type="text" class="form-control" name="nik" id="inputNik">
   </div>
