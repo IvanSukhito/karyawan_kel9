@@ -68,7 +68,7 @@
           <tbody>
             <tr>
               <th scope="row">1</th>
-              <td>Mark</td>
+              <td>Jovian</td>
               <td>Otto</td>
               <td>@mdo</td>
               <td>  <a href="#"><button class="btn btn-primary"> <i class="fa fa-edit"> Edit</i></button></a>
