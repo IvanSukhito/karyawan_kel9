@@ -69,8 +69,8 @@
             <tr>
               <th scope="row">1</th>
               <td>Jovian</td>
-              <td>Otto</td>
-              <td>@mdo</td>
+              <td>Ivan</td>
+              <td>Garren</td>
               <td>  <a href="#"><button class="btn btn-primary"> <i class="fa fa-edit"> Edit</i></button></a>
           <a href="#" onClick="return Hapus();"><button class="btn btn-danger"> <i class="fa fa-trash"> Delete</i></button></a>
        </td>
